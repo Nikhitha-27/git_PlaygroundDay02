@@ -7,7 +7,7 @@ This document lists commonly used Git commands with brief explanations.
 
 ## Git Basics
 
-git --version  
+git --version  [master.txt](master.txt)
 → Check installed Git version
 
 git help  
